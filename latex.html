@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
+    <link href="style.css" rel="stylesheet"/>
+    <link rel="icon" href="img/favicon.png" sizes="any">
+    <script src="js/jquery-1.7.2.min.js" defer></script>
+    <script src="js/js.js" defer></script>
+    <meta name="description" content="Каталог латексных шаров">
+    <meta name="keywords" content="латексные шары, латексные шары с рисунками">
+    <title>Латексные шары</title>
+
+</head>
+<body>
+<header id="header">
+    <img class="logo" src="img/header/Logo.svg" alt="Логотип"/>
+    <div class="contacts">
+        <a class="phone"><img src="img/header/phone.png"/>+38 (068) 809-50-36<img class="viber" src="img/header/viber.png"  alt=""/></a>
+        <a class="mail" href="mailto:a.kiselyoff@gmail.com"><img src="img/header/mail.png" alt=""/>a.kiselyoff@gmail.com</a>
+        <a class="zakaz" href="send.php" target="_blank">Заказать</a>
+    </div>
+    <div id="toggle-menu"><img src="img/nav/menu.png"/></div>
+</header>
+<nav>
+    <ul>
+        <li><a href="index.html"><img src="img/nav/home.png"  alt=""><span>Главная</span></a></li>
+        <li class="active"><a href="products.html"><img src="img/nav/balloonsColor.png"  alt=""><span>Каталог</span></a></li>
+        <li><a href="portfolio.html"><img src="img/nav/portfolio.png"  alt=""><span>Наши работы</span></a></li>
+        <li><a href="info.html"><img src="img/nav/info.png"  alt=""><span>Инфо</span></a></li>
+    </ul>
+</nav>
+<div class="breadcrumbs">
+    <ul>
+        <li><a href="index.html" rel="nofollow">Главная</a></li>
+        <li>&#9658;</li>
+        <li><a href="products.html" rel="nofollow">Каталог шаров</a></li>
+        <li>&#9658;</li>
+        <li><a>Латексные шары</a></li>
+    </ul>
+</div>
+<h1>Латексные шары</h1>
+<!--
+<fieldset class="filter">
+    <legend>Фильтр товара</legend>
+    <fieldset>
+        <legend>Размер</legend>
+        <label title="(...-28см)"><input type="checkbox" id="small">... - 11"</label>
+        <label title="(28см - 40см)"><input type="checkbox" id="middle">12" - 16"</label>
+        <label title="(40см - ...)"><input type="checkbox" id="big">17" - ...</label>
+    </fieldset>
+
+    <fieldset>
+        <legend>Материал</legend>
+        <label><input type="checkbox" id="latex">Латексные шары</label>
+        <label><input type="checkbox" id="foil">Фольгированные шары</label>
+        <label><input type="checkbox" id="bubble">BUBBLE</label>
+    </fieldset>
+    <fieldset>
+        <legend>Вид</legend>
+        <label><input type="checkbox" id="circle">Круглые</label>
+        <label><input type="checkbox" id="figure">Фигурные</label>
+        <label><input type="checkbox" id="picture">С рисунком</label>
+    </fieldset>
+    <fieldset>
+        <legend>Композиции</legend>
+        <label title="Готовые композиции"><input type="checkbox" id="set bundle">Пучки из шаров</label>
+        <label><input type="checkbox" id="set arch">Арки и гирлянды</label>
+        <label><input type="checkbox" id="set column">Стойки из шаров</label>
+        <label><input type="checkbox" id="set bouquet">Букеты</label>
+        <label><input type="checkbox" id="set photoZone">Фотозоны</label>
+    </fieldset>
+
+    <fieldset class="filterButtons">
+        <legend>Применить фильтры</legend>
+        <label title="Применяет, выбранные фильтры"><input type="button" value="Применить фильтр" id="filterOn"></label>
+        <label title="Очищает, выбранные фильтры"><input type="button" value="Очистить фильтр" id="filterClear"></label>
+    </fieldset>
+</fieldset>
+-->
+<article class="catalog">
+    <div class="catalog-item latex big circle">
+        <img id="pic" src="img/product/latex/big2.jpg" alt="Большие шары">
+        <p class="title">Большие шары</p>
+        <p class="val">27" (70см) с гелием</p>
+        <p class="price">Цена: <span>500 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex big circle">
+        <img src="img/product/latex/big4.jpg" alt="Большие шары">
+        <p class="title">Большие шары</p>
+        <p class="val">19" (48см) с гелием</p>
+        <p class="price">Цена: <span>180 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle figure">
+        <img src="img/product/latex/heart1.jpg" alt="Шары в форме сердец">
+        <p class="title">Сердца</p>
+        <p class="val">16" (40см)</p>
+        <p class="price">Цена: <span>80 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex small circle">
+        <img src="img/product/latex/baloons1.jpg" alt="Шары 10 дюймов">
+        <p class="title">Шары пастель</p>
+        <p class="val">10" (25см) с гелием</p>
+        <p class="price">Цена: <span>22 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex small circle">
+        <img src="img/product/latex/baloonsMet.jpg" alt="Шары 10 дюймов">
+        <p class="title">Шары металлик</p>
+        <p class="val">10" (25см) с гелием</p>
+        <p class="price">Цена: <span>23 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex small circle">
+        <img src="img/product/latex/baloonsCrystal.jpg" alt="Шары 10 дюймов">
+        <p class="title">Шары кристалл</p>
+        <p class="val">10" (25см) с гелием</p>
+        <p class="price">Цена: <span>22 грн/шт</span></p>
+    </div>
+    <div class="catalog-item set small middle big">
+        <img src="img/product/latex/zapolnit.jpg" alt="Заполнение помещений шарами">
+        <p class="title">Заполнение помещений шарами</p>
+        <p class="val">Шары разного размера</p>
+        <p class="price">Цена: <span>от 3 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle">
+        <img src="img/product/latex/pastel.jpg" alt="Шары 12 дюймов">
+        <p class="title">Шары пастель</p>
+        <p class="val">12" (30см) с гелием</p>
+        <p class="price">Цена: <span>28 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex small circle picture">
+        <img src="img/product/latex/smiles.jpg" alt="Улыбки/Смайлы">
+        <p class="title">Шары-улыбки</p>
+        <p class="val">10" (25см) с гелием</p>
+        <p class="price">Цена: <span>23 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/starsAssorti1.jpg" alt="Шары с рисунком">
+        <p class="title">Шары со звездами</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/redHeart.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с сердцами</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/whiteHeart.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с сердцами</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/dots1.jpg" alt="Шары с рисунком">
+        <p class="title">Шары в горошек</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/pirates.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с пиратами</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/skullBW.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с черепом</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/ananasBW.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с ананасом</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/almazBW.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с алмазом</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/insult.jpg" alt="Шары с рисунком">
+        <p class="title">Шары оскорбительные</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/shit.jpg" alt="Шары с рисунком">
+        <p class="title">Шары с какашкой</p>
+        <p class="val">Шелкография 12" (30см) с гелием</p>
+        <p class="price">Цена: <span>33 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex small circle picture">
+        <img src="img/product/latex/smilesClassic.jpg" alt="Улыбки/Смайлы">
+        <p class="title">Шары-улыбки</p>
+        <p class="val">11" (28см) с гелием</p>
+        <p class="price">Цена: <span>28 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/dots14.jpg" alt="Шары  в горошек">
+        <p class="title">Шары  в горошек</p>
+        <p class="val">Шелкография 14" (36см)</p>
+        <p class="price">Цена: <span>53 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex middle circle picture">
+        <img src="img/product/latex/dotsBW.jpg" alt="Шары  в горошек ч/б">
+        <p class="title">Шары  в горошек ч/б</p>
+        <p class="val">Шелкография 14" (36см)</p>
+        <p class="price">Цена: <span>53 грн/шт</span></p>
+    </div>
+    <div class="catalog-item latex big circle">
+        <img src="img/product/latex/punch.jpg" alt="Punch Ball">
+        <p class="title">Punch-Ball</p>
+        <p class="val">18" (100см) с воздухом</p>
+        <p class="price">Цена: <span>10 грн/шт</span></p>
+    </div>
+
+    <div class="catalog-item latex middle circle">
+        <img src="img/product/latex/longRibbon.jpg" alt="Шары с длинной лентой">
+        <p class="title">Шары с длинными ленточками</p>
+        <p class="val">12" (30см) с гелием</p>
+        <p class="price">Цена: <span>29 грн/шт</span></p>
+    </div>
+</article>
+<footer>
+    <div class="container">
+        <div class="social-bar">
+            <a class="social instagram" href="https://www.instagram.com/happymaker.com.ua/" target="_blank"></a>
+            <a class="social youtube" href="https://www.youtube.com/channel/UCw0maEn8gmedDY3B0KmTFtA" target="_blank"></a>
+        </div>
+        <div class="copyright">
+            HappyMaker &copy; 2017&ndash;2019
+        </div>
+        <div class="buttonUp">
+            <a href="#header"><img src="img/footer/ArrowUp.png" alt="В начало страницы"/></a>
+        </div>
+
+    </div>
+</footer>
+</body>
+</html>
