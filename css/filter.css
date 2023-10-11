@@ -1,0 +1,39 @@
+﻿.filter {
+    float: left;
+    width: 150px;
+    background-color: black;
+}
+
+.filter fieldset {
+    margin: 0 5px;
+    /* width: inherit;*/
+}
+
+.filter fieldset:last-child {
+    margin-bottom: 5px;
+}
+
+.filter label {
+    display: block;
+    text-align: left;
+    margin: 0 5px;
+}
+
+.filterButtons {
+    border-color: transparent;
+}
+
+.filterButtons label {
+    text-align: center;
+}
+
+.filter input[type="button"] {
+    margin: 5px auto;
+    padding: 10px;
+    border-radius: 10px;
+    /*border: 2px outset darkslategrey ;*/
+    outline: none;
+    background: black;
+    font-family: inherit;
+}
+

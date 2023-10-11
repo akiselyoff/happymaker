@@ -1,0 +1,34 @@
+﻿form.order fieldset {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+form.order select,
+form.order input,
+form.order textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    color: black;
+}
+
+form.order input[type="submit"] {
+    width: auto;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+form.order input[type="submit"]:hover {
+    cursor: pointer;
+    background-color: limegreen;
+    color: black;
+
+}
+
+form.order p {
+    margin: 10px;
+}

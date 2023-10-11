@@ -2,8 +2,6 @@
 <head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
     <link href="style.css" rel="stylesheet"/>
     <link rel="icon" href="img/png/balloonsColor3.png" sizes="any">
     <meta name="description" content="Форма заказа">

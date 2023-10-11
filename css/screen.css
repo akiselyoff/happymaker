@@ -1,0 +1,63 @@
+﻿@media only screen and (max-width: 639px) {
+    #slider h2 {
+        left: initial;
+        margin: 0 40%;
+    }
+
+    #slider .more {
+        left: 35%;
+    }
+
+    .filter {
+        float: none;
+        width: 100%;
+    }
+
+    .catalog-item,
+    .catalog-group {
+        width: 100%;
+    }
+
+    .contacts a {
+        display: block;
+    }
+
+    .catalog-item p {
+        margin: 5px;
+    }
+
+}
+
+@media only screen and (max-width: 374px) {
+    header {
+        display: block;
+    }
+
+    header:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+
+    .logo {
+        display: block;
+    }
+
+    .contacts {
+        float: left;
+    }
+
+    .catalog-item,
+    .catalog-group {
+        margin: 5px;
+        width: 100%;
+    }
+
+    #slider h2 {
+        margin: 0 30%;
+    }
+
+    #slider .more {
+        left: 25%;
+    }
+}

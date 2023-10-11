@@ -1,0 +1,95 @@
+﻿
+/******************SLIDER*******************/
+
+#slider {
+    position: relative;
+    width: 90%;
+    /*min-width: 90%;*/
+    height: 400px;
+    background: transparent url(../img/product/set/garland.JPG) no-repeat center / cover;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.button {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 50%;
+}
+
+.button:hover {
+    filter: brightness(20%);
+}
+
+.next {
+    background: transparent url(../img/slider/next.png) no-repeat center / contain;
+    right: 1%;
+}
+
+.prev {
+    background: transparent url(../img/slider/prev.png) no-repeat center / contain;
+    left: 1%;
+}
+
+#slider h2 {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+#slider .more {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    width: 150px;
+}
+
+.about {
+    margin: 0 15% 0;
+}
+
+/******************SLIDER*******************/
+
+
+
+.advantages {
+    border: 10px solid transparent;
+    border-image: 10 repeating-linear-gradient(135deg, #569cb4, #569cb4 10px, transparent 10px, transparent 20px, #b3dcff 20px, #b3dcff 30px, transparent 30px, transparent 40px);
+}
+
+.info {
+    margin: 0 15% 0;
+    padding-bottom: 40px;
+}
+
+.advContainer,
+.pay ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+
+.advantage {
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+    margin: 10px;
+    background-color: transparent;
+}
+
+.advantage h3 {
+    color: black;
+}
+
+.advantage div,
+.advantage img {
+    width: 100%;
+    height: auto;
+
+}
+
