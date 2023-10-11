@@ -76,306 +76,306 @@
         <img src="img/product/latex/pastel10.jpg" alt="Шары 10 дюймов">
         <p class="title">Шары пастель</p>
         <p class="val">10" (25см) с гелием</p>
-        <p class="price">Цена: <span>24</span> грн/шт</p>
+        <p class="price">Цена: <span>55</span> грн/шт</p>
     </div>
     <div class="catalog-item" data-filter="10inch circle">
         <img src="img/product/latex/baloonsMet10.jpg" alt="Шары 10 дюймов">
         <p class="title">Шары металлик</p>
         <p class="val">10" (25см) с гелием</p>
-        <p class="price">Цена: <span>25 грн/шт</span></p>
+        <p class="price">Цена: <span>57 грн/шт</span></p>
     </div>
     <div class="catalog-item latex small circle" data-filter="10inch circle">
         <img src="img/product/latex/baloonsCrystal.jpg" alt="Шары 10 дюймов">
         <p class="title">Шары кристалл</p>
         <p class="val">10" (25см) с гелием</p>
-        <p class="price">Цена: <span>24 грн/шт</span></p>
+        <p class="price">Цена: <span>55 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="10inch circle">
         <img src="img/product/diod/neon.jpg" alt="Неоновые шары">
         <p class="title">Неоновые шары</p>
         <p class="val">10" (25см) с гелием</p>
-        <p class="price">Цена: <span>24 грн/шт</span></p>
+        <p class="price">Цена: <span>57 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="10inch heart">
         <img src="img/product/latex/heartsLatex.jpg" alt="Шары в форме сердец">
         <p class="title">Сердца латексные</p>
         <p class="val">10" (25см)</p>
-        <p class="price">Цена: <span>25 грн/шт</span></p>
+        <p class="price">Цена: <span>57 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="10inch circle picture">
         <img src="img/product/latex/smiles.jpg" alt="Улыбки/Смайлы">
         <p class="title">Шары-улыбки</p>
         <p class="val">10" (25см) с гелием</p>
-        <p class="price">Цена: <span>26 грн/шт</span></p>
+        <p class="price">Цена: <span>58 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="11inch circle picture">
         <img src="img/product/latex/smilesClassic.jpg" alt="Улыбки/Смайлы">
         <p class="title">Шары-улыбки</p>
         <p class="val">11" (28см) с гелием</p>
-        <p class="price">Цена: <span>28 грн/шт</span></p>
+        <p class="price">Цена: <span>60 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="11inch circle">
         <img src="img/product/latex/agatAss.jpg" alt="Шары 11 дюймов">
         <p class="title">Шары Супер Агат</p>
         <p class="val">11" (28см) с гелием</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle">
         <img src="img/product/latex/chromeMulticolor.jpg" alt="Шары 12 дюймов">
         <p class="title">Шары Хром</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>40 грн/шт</span></p>
+        <p class="price">Цена: <span>75 грн/шт</span></p>
     </div>
     
     <div class="catalog-item" data-filter="12inch circle">
         <img src="img/product/latex/pastel12.jpg" alt="Шары 12 дюймов">
         <p class="title">Шары пастель</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>28 грн/шт</span></p>
+        <p class="price">Цена: <span>64 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle">
         <img src="img/product/latex/macaron.jpg" alt="Шары 12 дюймов">
         <p class="title">Шары макарун</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>29 грн/шт</span></p>
+        <p class="price">Цена: <span>65 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle">
         <img src="img/product/latex/baloonsMet12.jpg" alt="Шары 12 дюймов">
         <p class="title">Шары металлик</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>29 грн/шт</span></p>
+        <p class="price">Цена: <span>65 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/emosionAssort12.jpg" alt="Эмоции">
         <p class="title">Шары-эмоции</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>30 грн/шт</span></p>
+        <p class="price">Цена: <span>68 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle">
         <img src="img/product/latex/longRibbon.jpg" alt="Шары с длинной лентой">
         <p class="title">Шары с длинными лентами</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>29 грн/шт</span></p>
+        <p class="price">Цена: <span>65 грн/шт</span></p>
     </div>
     
     <div class="catalog-item" data-filter="12inch circle">
         <img src="img/product/diod/neon2.jpg" alt="Неоновые шары">
         <p class="title">Неоновые шары</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>28 грн/шт</span></p>
+        <p class="price">Цена: <span>65 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch diod circle">
         <img src="img/product/diod/svet2.jpg" alt="Светящиеся шары">
         <p class="title">Шары со светодиодами</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>40 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="10inch diod circle">
         <img src="img/product/diod/svet1.jpg" alt="Светящиеся шары">
         <p class="title">Шары со светодиодами</p>
         <p class="val">10" (25см) с воздухом</p>
-        <p class="price">Цена: <span>15 грн/шт</span></p>
+        <p class="price">Цена: <span>20 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/starsAssorti1.jpg" alt="Шары с рисунком">
         <p class="title">Шары со звездами</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/redHeart.jpg" alt="Шары с рисунком">
         <p class="title">Шары с сердцами</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/whiteHeart.jpg" alt="Шары с рисунком">
         <p class="title">Шары с сердцами</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/dots1.jpg" alt="Шары с рисунком">
         <p class="title">Шары в горошек</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/pirates.jpg" alt="Шары с рисунком">
         <p class="title">Шары с пиратами</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/skullBW.jpg" alt="Шары с рисунком">
         <p class="title">Шары с черепом</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/ananasBW.jpg" alt="Шары с рисунком">
         <p class="title">Шары с ананасом</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>35 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/almazBW.jpg" alt="Шары с рисунком">
         <p class="title">Шары с алмазом</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>35 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/insult.jpg" alt="Шары с рисунком">
         <p class="title">Шары оскорбительные</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>35 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/shit.jpg" alt="Шары с рисунком">
         <p class="title">Шары с какашкой</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>35 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/helloweenPumpBlack.jpg" alt="Шары с рисунком">
         <p class="title">Шары на Хеллоуин Черная Тыква</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>35 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="12inch circle picture">
         <img src="img/product/latex/helloweenBlackScaryFaces.jpg" alt="Шары с рисунком">
         <p class="title">Шары на Хеллоуин Зловещие Рожицы</p>
         <p class="val">Шелкография 12" (30см) с гелием</p>
-        <p class="price">Цена: <span>35 грн/шт</span></p>
+        <p class="price">Цена: <span>70 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/smiles14.jpg" alt="Улыбки/Смайлы">
         <p class="title">Шары-улыбки</p>
         <p class="val">14" (36см) с гелием</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/dots14.jpg" alt="Шары  в горошек">
         <p class="title">Шары  в горошек</p>
         <p class="val">Шелкография 14" (36см)</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/dotsBW.jpg" alt="Шары  в горошек ч/б">
         <p class="title">Шары  в горошек ч/б</p>
         <p class="val">Шелкография 14" (36см)</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/starsBlackGold.jpg" alt="Шары черные с золотыми звездами">
         <p class="title">Шары  со звездами</p>
         <p class="val">Шелкография 14" (36см)</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/circlesBlackWhiteGold.jpg" alt="Шары черные с золотыми кругами">
         <p class="title">Шары  с кругами</p>
         <p class="val">Шелкография 14" (36см)</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/konfettiPicBlackGold.jpg" alt="Шары черные с золотыми кругами">
         <p class="title">Шары  с нарисованным конфетти</p>
         <p class="val">Шелкография 14" (36см)</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch circle picture">
         <img src="img/product/latex/heartsBW.jpg" alt="Шары черные и белые с золотыми сердцами">
         <p class="title">Шары  с сердечками</p>
         <p class="val">Шелкография 14" (36см)</p>
-        <p class="price">Цена: <span>45 грн/шт</span></p>
+        <p class="price">Цена: <span>85 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="16inch heart">
         <img src="img/product/latex/heart1.jpg" alt="Шары в форме сердец">
         <p class="title">Сердце</p>
         <p class="val">16" (41см)</p>
-        <p class="price">Цена: <span>65 грн/шт</span></p>
+        <p class="price">Цена: <span>150 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="18inch circle">
         <img src="img/product/latex/punch.jpg" alt="Punch Ball">
         <p class="title">Punch-Ball</p>
         <p class="val">18" (46см) с воздухом</p>
-        <p class="price">Цена: <span>10 грн/шт</span></p>
+        <p class="price">Цена: <span>20 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="19inch circle">
         <img src="img/product/latex/big.jpg" alt="Большие шары">
         <p class="title">Большие шары</p>
         <p class="val">19" (48см) с гелием</p>
-        <p class="price">Цена: <span>120 грн/шт</span></p>
+        <p class="price">Цена: <span>550 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="27inch circle">
         <img id="pic" src="img/product/latex/big2.jpg" alt="Большие шары">
         <p class="title">Большие шары</p>
         <p class="val">24" (61см) с гелием</p>
-        <p class="price">Цена: <span>350 грн/шт</span></p>
+        <p class="price">Цена: <span>750 грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="27inch circle">
         <img id="pic" src="img/product/latex/big4.jpg" alt="Большие шары">
         <p class="title">Большие шары</p>
         <p class="val">27" (69см) с гелием</p>
-        <p class="price">Цена: <span>500 грн/шт</span></p>
+        <p class="price">Цена: <span>850грн/шт</span></p>
     </div>
     <div class="catalog-item" data-filter="27inch circle tail">
         <img src="img/product/latex/bigAndTale4.jpg" alt="Большие шары с кисточками">
         <p class="title">Большие шары c хвостом</p>
         <p class="val">27" (69см) с гелием</p>
-        <p class="price">Цена: <span>700 грн</span></p>
+        <p class="price">Цена: <span>1000 грн</span></p>
     </div>
     <div class="catalog-item" data-filter="10inch 12inch circle">
         <img src="img/product/latex/zapolnit.jpg" alt="Заполнение помещений шарами">
         <p class="title">Заполнение помещений шарами</p>
         <p class="val">Шары разного размера</p>
-        <p class="price">Цена: <span>от 3 грн/шт</span></p>
+        <p class="price">Цена: <span>от 5 грн/шт</span></p>
     </div>
     
      <div class="catalog-item" data-filter="27inch circle">
         <img src="img/product/latex/bigAndTale5.jpg" alt="Большие шары">
         <p class="title">Большие шары</p>
         <p class="val">27" (69см) с гелием</p>
-        <p class="price">Цена: <span>500 грн/шт</span></p>
+        <p class="price">Цена: <span>870 грн/шт</span></p>
     </div>
     
     <div class="catalog-item" data-filter="12inch konfetti circle">
         <img src="img/product/konfetti/konfeti_3.jpg" alt="Шары с конфетти">
         <p class="title">Шары с конфетти</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>40 грн</span></p>
+        <p class="price">Цена: <span>75 грн</span></p>
     </div>
     <div class="catalog-item" data-filter="14inch konfetti circle">
         <img src="img/product/konfetti/konfetti2.png" alt="Шары с конфетти">
         <p class="title">Шары с конфетти</p>
         <p class="val">14" (36см) с гелием</p>
-        <p class="price">Цена: <span>50 грн</span></p>
+        <p class="price">Цена: <span>95 грн</span></p>
     </div>
     <div class="catalog-item" data-filter="18inch konfetti circle">
         <img src="img/product/konfetti/konfeti.jpg" alt="Шары с конфетти">
         <p class="title">Шары с конфетти</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>130 грн</span></p>
+        <p class="price">Цена: <span>580 грн</span></p>
     </div>
     <div class="catalog-item" data-filter="18inch konfetti tail circle">
         <img src="img/product/konfetti/konfetiTale.jpg" alt="Шары с конфетти и кисточкой">
         <p class="title">Шары с конфетти и хвостом</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>160 грн</span></p>
+        <p class="price">Цена: <span>700 грн</span></p>
     </div>
     <div class="catalog-item" data-filter="27inch konfetti tail circle">
         <img src="img/product/konfetti/GigaKonfetiTale.jpg" alt="Большие шары с кисточками и конфетти">
         <p class="title">Большие шары c конфетти и хвостом</p>
         <p class="val">27" (69см) с гелием</p>
-        <p class="price">Цена: <span>750 грн</span></p>
+        <p class="price">Цена: <span>1100 грн</span></p>
     </div>
 
     <div class="catalog-item" data-filter="31inch konfetti tail circle">
         <img src="img/product/konfetti/bigKonfetiTale.jpg" alt="Шар гигант с кисточками и конфетти">
         <p class="title">Шар гигант c конфетти и хвостом</p>
         <p class="val">31" (79см) с гелием</p>
-        <p class="price">Цена: <span>850 грн</span></p>
+        <p class="price">Цена: <span>1500 грн</span></p>
     </div>
     
     
