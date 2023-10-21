@@ -78,279 +78,275 @@
         <img src="img/product/foil/hearts.jpg" alt="Фольгированные шары">
         <p class="title">Сердца</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>90 грн/шт</span></p>
+        <p class="price">Цена: <span>140 грн/шт</span></p>
     </div>
 
     <div class="catalog-item foil big figure" data-filter="star">
         <img src="img/product/foil/stars.jpg" alt="Фольгированные шары">
         <p class="title">Звёзды</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>90 грн/шт</span></p>
+        <p class="price">Цена: <span>140 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big circle" data-filter="circle">
         <img src="img/product/foil/krug.png" alt="Фольгированные шары">
         <p class="title">Круги</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>90 грн/шт</span></p>
+        <p class="price">Цена: <span>140 грн/шт</span></p>
     </div>
     <div class="catalog-item foil middle figure" data-filter="sphere">
         <img src="img/product/foil/sphare3D.jpg" alt="Фольгированные шары">
         <p class="title">Сфера</p>
         <p class="val">16" (41см) с гелием</p>
-        <p class="price">Цена: <span>300 грн/шт</span></p>
+        <p class="price">Цена: <span>480 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="star birthday">
         <img src="img/product/foil/starHB.jpg" alt="Фольгированные шары">
         <p class="title">Звёзда С днем рождения</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>110 грн/шт</span></p>
+        <p class="price">Цена: <span>180 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure" data-filter="star">
         <img src="img/product/foil/starsSatin.jpg" alt="Фольгированные шары">
         <p class="title">Звёзды сатин</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>90 грн/шт</span></p>
+        <p class="price">Цена: <span>140 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure" data-filter="star">
         <img src="img/product/foil/starBig.jpg" alt="Фольгированные шары">
         <p class="title">Звёзда гигант</p>
         <p class="val">32" (81см) с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
-    </div>
-    <div class="catalog-item foil big figure" data-filter="star">
-        <img src="img/product/foil/starBig.jpg" alt="Фольгированные шары">
-        <p class="title">Звёзда гигант</p>
-        <p class="val">36" (91см) с гелием</p>
-        <p class="price">Цена: <span>380 грн/шт</span></p>
+        <p class="price">Цена: <span>600 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure" data-filter="other">
         <img src="img/product/foil/moons.jpg" alt="Фольгированные шары">
         <p class="title">Луна</p>
         <p class="val">17" (43см) с гелием</p>
-        <p class="price">Цена: <span>90 грн/шт</span></p>
+        <p class="price">Цена: <span>140грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure" data-filter="star">
         <img src="img/product/foil/starRainbow.jpg" alt="Фольгированные шары">
         <p class="title">Звёзды с блеском</p>
         <p class="val">19" (48см) с гелием</p>
-        <p class="price">Цена: <span>120 грн/шт</span></p>
+        <p class="price">Цена: <span>200 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="heart">
         <img src="img/product/foil/heartUkr.jpg" alt="Фольгированные шары">
         <p class="title">Сердца с символикой</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>95 грн/шт</span></p>
+        <p class="price">Цена: <span>160 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure" data-filter="numbsLetters">
         <img src="img/product/foil/NumbsFoil.jpg" alt="Фольгированные шары">
         <p class="title">Цифры</p>
         <p class="val">40" (1 м) с гелием</p>
-        <p class="price">Цена: <span>300 грн/шт</span></p>
+        <p class="price">Цена: <span>400 грн/шт</span></p>
     </div>
     <div class="catalog-item foil middle figure" data-filter="numbsLetters">
         <img src="img/product/foil/LettersFoil.jpg" alt="Фольгированные шары">
         <p class="title">Буквы</p>
         <p class="val">14" (36см) с воздухом</p>
-        <p class="price">Цена: <span>30 грн/шт</span></p>
+        <p class="price">Цена: <span>50 грн/шт</span></p>
     </div>
     <div class="catalog-item foil middle figure" data-filter="numbsLetters">
         <img src="img/product/foil/LettersFoil40.jpg" alt="Фольгированные шары">
         <p class="title">Буквы</p>
         <p class="val">40" (1 м) с воздухом</p>
-        <p class="price">Цена: <span>110 грн/шт</span></p>
+        <p class="price">Цена: <span>160 грн/шт</span></p>
     </div>
     <div class="catalog-item foil middle figure" data-filter="numbsLetters birthday">
         <img src="img/product/foil/lettersHBsilver.jpg" alt="Фольгированные шары">
         <p class="title">Буквы Happy Birthday</p>
         <p class="val">Happy-76х25см, Birth-66х22см, Day-45х22см с воздухом</p>
-        <p class="price">Цена: <span>280 грн/шт</span></p>
+        <p class="price">Цена: <span>300 грн/шт</span></p>
     </div>
     <div class="catalog-item foil middle figure" data-filter="numbsLetters birthday">
         <img src="img/product/foil/lettersHBgold.jpg" alt="Фольгированные шары">
         <p class="title">Буквы Happy B-day</p>
         <p class="val">76х48см с воздухом</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>300 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="numbsLetters animal">
         <img src="img/product/foil/NumbsFoilZoo.jpg" alt="Фольгированные шары">
         <p class="title">Цифры-звери</p>
         <p class="val">40" (1 м) с гелием</p>
-        <p class="price">Цена: <span>370 грн/шт</span></p>
+        <p class="price">Цена: <span>450 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/footBoyGirl.jpg" alt="Фольгированные шары">
         <p class="title">Стопа</p>
         <p class="val">65х93см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>360 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/littleBoyGirl.jpg" alt="Фольгированные шары">
         <p class="title">Младенец</p>
         <p class="val">47х70см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>370 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/kolaskaBoy.jpg" alt="Фольгированные шары">
         <p class="title">Коляска для мальчика</p>
         <p class="val">73х95см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/kolaskaGirl.jpg" alt="Фольгированные шары">
         <p class="title">Коляска для девочки</p>
         <p class="val">73х95см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/babyBoyHead.jpg" alt="Фольгированные шары">
         <p class="title">Младенец мальчик голова</p>
         <p class="val">40х45 см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/babyGirlHead.jpg" alt="Фольгированные шары">
         <p class="title">Младенец девочка голова</p>
         <p class="val">40х45 см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/lelekaBoy.jpg" alt="Фольгированные шары">
         <p class="title">Аист для мальчика</p>
         <p class="val">82х82см с гелием</p>
-        <p class="price">Цена: <span>550 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/lelekaGirl.jpg" alt="Фольгированные шары">
         <p class="title">Аист для девочки</p>
         <p class="val">82х82см с гелием</p>
-        <p class="price">Цена: <span>550 грн/шт</span></p>
+        <p class="price">Цена: <span>380грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/babyGirlBody.jpg" alt="Фольгированные шары">
         <p class="title">Боди девочка</p>
         <p class="val">55х60см с гелием</p>
-        <p class="price">Цена: <span>330 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/babyBoyBody.jpg" alt="Фольгированные шары">
         <p class="title">Боди мальчик</p>
         <p class="val">55х60см с гелием</p>
-        <p class="price">Цена: <span>330 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn heart">
         <img src="img/product/foil/babyGirlHeart.jpg" alt="Фольгированные шары">
         <p class="title">Сердце девочка</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>160 грн/шт</span></p>
+        <p class="price">Цена: <span>180 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn heart">
         <img src="img/product/foil/babyBoyHeart.jpg" alt="Фольгированные шары">
         <p class="title">Сердце мальчик</p>
         <p class="val">18" (46см) с гелием</p>
-        <p class="price">Цена: <span>160 грн/шт</span></p>
+        <p class="price">Цена: <span>180 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/bottleBoy.jpg" alt="Фольгированные шары">
         <p class="title">Бутылочка мальчику</p>
         <p class="val">43х80см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/bottleGirl.jpg" alt="Фольгированные шары">
         <p class="title">Бутылочка девочке</p>
         <p class="val">43х80см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="newborn">
         <img src="img/product/foil/babySoska.jpg" alt="Фольгированные шары">
         <p class="title">Соска</p>
         <p class="val">С гелием</p>
-        <p class="price">Цена: <span>270 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/champFM.jpg" alt="Фольгированные шары">
         <p class="title">Бутылка Шампанского</p>
         <p class="val">83х43см с гелием</p>
-        <p class="price">Цена: <span>250 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/champ.jpg" alt="Фольгированные шары">
         <p class="title">Бутылка Шампанского</p>
         <p class="val">35х91см с гелием</p>
-        <p class="price">Цена: <span>300 грн/шт</span></p>
+        <p class="price">Цена: <span>530 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/champBig.jpg" alt="Фольгированные шары">
         <p class="title">Бутылка Шампанского Большая</p>
         <p class="val">99см с гелием</p>
-        <p class="price">Цена: <span>400 грн/шт</span></p>
+        <p class="price">Цена: <span>800 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/bokal.jpg" alt="Фольгированные шары">
         <p class="title">Бокал шампанского</p>
         <p class="val">33х89 см с гелием</p>
-        <p class="price">Цена: <span>330 грн/шт</span></p>
+        <p class="price">Цена: <span>450 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/whisky.jpg" alt="Фольгированные шары">
         <p class="title">Бутылка Виски</p>
         <p class="val">78х34см с гелием</p>
-        <p class="price">Цена: <span>300 грн/шт</span></p>
+        <p class="price">Цена: <span>500 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/cardKing.jpg" alt="Фольгированные шары">
         <p class="title">Карта Король</p>
         <p class="val">30х43 см с гелием</p>
-        <p class="price">Цена: <span>220 грн/шт</span></p>
+        <p class="price">Цена: <span>350 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/crownGold.jpg" alt="Фольгированные шары">
         <p class="title">Золотая Корона</p>
         <p class="val">89х74 см с гелием</p>
-        <p class="price">Цена: <span>360 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/ringGold.jpg" alt="Фольгированные шары">
         <p class="title">Кольцо с Алмазом золото</p>
         <p class="val">84х57 см с гелием</p>
-        <p class="price">Цена: <span>290 грн/шт</span></p>
+        <p class="price">Цена: <span>500 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/ringSilver.jpg" alt="Фольгированные шары">
         <p class="title">Кольцо с Алмазом серебро</p>
         <p class="val">79х54 см с гелием</p>
-        <p class="price">Цена: <span>290 грн/шт</span></p>
+        <p class="price">Цена: <span>500 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/lipsRed.jpg" alt="Фольгированные шары">
         <p class="title">Губы Красные</p>
         <p class="val">43х33 см с гелием</p>
-        <p class="price">Цена: <span>220 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/lipsRedLosk.jpg" alt="Фольгированные шары">
         <p class="title">Губы Красные с блеском</p>
         <p class="val">53х98 см с гелием</p>
-        <p class="price">Цена: <span>360 грн/шт</span></p>
+        <p class="price">Цена: <span>550 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="other">
         <img src="img/product/foil/championCupGold.jpg" alt="Фольгированные шары">
         <p class="title">Кубок Чемпиона Золотой</p>
         <p class="val">63х71 см с гелием</p>
-        <p class="price">Цена: <span>290 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/beer.jpg" alt="Фольгированные шары">
         <p class="title">Кружка с пивом</p>
         <p class="val">74х50см с гелием</p>
-        <p class="price">Цена: <span>280 грн/шт</span></p>
+        <p class="price">Цена: <span>380 грн/шт</span></p>
     </div>
     <div class="catalog-item foil big figure picture" data-filter="alcohol">
         <img src="img/product/foil/beerBig.jpg" alt="Фольгированные шары">
         <p class="title">Кружка с пивом большая</p>
         <p class="val">89см с гелием</p>
-        <p class="price">Цена: <span>450 грн/шт</span></p>
+        <p class="price">Цена: <span>800 грн/шт</span></p>
     </div>
+
+    <!--   continue-->
     <div class="catalog-item foil big circle picture" data-filter="circle newborn">
         <img src="img/product/foil/babyBoy.jpg" alt="Фольгированные шары">
         <p class="title">Новорожденным мальчикам</p>
