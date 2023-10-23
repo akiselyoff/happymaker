@@ -37,25 +37,25 @@
         <img src="img/product/diod/svet2.jpg" alt="Светящиеся шары">
         <p class="title">Шары со светодиодами</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>37 грн/шт</span></p>
+        <p class="price">Цена: <span>80 грн/шт</span></p>
     </div>
     <div class="catalog-item latex small circle">
         <img src="img/product/diod/svet1.jpg" alt="Светящиеся шары">
         <p class="title">Шары со светодиодами</p>
         <p class="val">10" (25см) с воздухом</p>
-        <p class="price">Цена: <span>15 грн/шт</span></p>
+        <p class="price">Цена: <span>25 грн/шт</span></p>
     </div>
     <div class="catalog-item latex small circle">
         <img src="img/product/diod/neon.jpg" alt="Неоновые шары">
         <p class="title">Неоновые шары</p>
         <p class="val">10" (25см) с гелием</p>
-        <p class="price">Цена: <span>24 грн/шт</span></p>
+        <p class="price">Цена: <span>57 грн/шт</span></p>
     </div>
     <div class="catalog-item latex middle circle">
         <img src="img/product/diod/neon2.jpg" alt="Неоновые шары">
         <p class="title">Неоновые шары</p>
         <p class="val">12" (30см) с гелием</p>
-        <p class="price">Цена: <span>32 грн/шт</span></p>
+        <p class="price">Цена: <span>65 грн/шт</span></p>
     </div>
 </article>
 <?php include "includes/footer.html" ?>
