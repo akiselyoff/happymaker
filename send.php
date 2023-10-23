@@ -43,7 +43,7 @@ $tel = $_POST['tel'];
 $date = $_POST['date'];
 $time = $_POST['time'];
 $clientComment = $_POST['clientComment'];
-if (mail("a.kiselyoff@gmail.com", "Заявка с сайта", "Имя-".$fio. "\n Телефон-".$tel. "\nДата:" .$date. "\n Время:" .$time. "\n Комментарий клиента к заказу: ".$clientComment ,"From: zakaz@happymaker.com.ua \r\n")){
+if (mail("a.kiselyoff@gmail.com", "Заявка с сайта", "Имя-".$fio. "\n Телефон-".$tel. "\nДата:" .$date. "\n Время:" .$time. "\n Комментарий клиента к заказу: ".$clientComment ,"From: order@happymaker.com.ua \r\n")){
 echo "Сообщение успешно отправлено"; 
 } else { 
 echo "При отправке сообщения возникли ошибки";
