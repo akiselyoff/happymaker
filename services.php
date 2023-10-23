@@ -35,37 +35,37 @@
         <img src="img/product/services/dropping3.JPG" alt="">
         <p class="title">Сброс шаров</p>
         <p class="val">от 500шт шаров надутых воздухом в мешке-сетке</p>
-        <p class="price">Цена: <span>от 1500 грн</span></p>
+        <p class="price">Цена: <span>от 2000 грн</span></p>
     </div>
     <div class="catalog-item">
         <img src="img/product/services/zapolnit.jpg" alt="">
         <p class="title">Заполнение помещений шарами</p>
         <p class="val">Шары надутые воздухом</p>
-        <p class="price">Цена: <span>от 3грн/шт</span></p>
+        <p class="price">Цена: <span>от 4грн/шт</span></p>
     </div>
     <div class="catalog-item">
         <img src="img/product/print/print2.jpg" alt="">
         <p class="title">Печать на шарах</p>
         <p class="val">10" (25см) шары с воздухом на палочке</p>
-        <p class="price">Цена: <span>от 8грн/шт</span></p>
+        <p class="price">Цена: <span>от 15грн/шт</span></p>
     </div>
     <div class="catalog-item">
         <img src="img/product/print/print.jpg" alt="">
         <p class="title">Печать на шарах</p>
         <p class="val">12" (30см) шары с гелием</p>
-        <p class="price">Цена: <span>от 35грн/шт</span></p>
+        <p class="price">Цена: <span>от 90грн/шт</span></p>
     </div>
     <div class="catalog-item">
         <img src="img/product/print/print3.JPG" alt="">
         <p class="title">Печать на шарах</p>
         <p class="val">12" (30см) шары с воздухом на палочке</p>
-        <p class="price">Цена: <span>от 10грн/шт</span></p>
+        <p class="price">Цена: <span>от 15грн/шт</span></p>
     </div>
     <div class="catalog-item">
         <img src="img/product/print/printBig.JPG" alt="">
         <p class="title">Печать на больших шарах</p>
         <p class="val">27" (69см) шары с гелием</p>
-        <p class="price">Цена: <span>от 700грн/шт</span></p>
+        <p class="price">Цена: <span>от 1200грн/шт</span></p>
     </div>
 
 </article>
