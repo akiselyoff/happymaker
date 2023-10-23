@@ -37,13 +37,13 @@
         <img src="img/product/print/print.jpg" alt="печать на шарах">
         <p class="title">Печать на шарах</p>
         <p class="val">От 10" (25см) с гелием</p>
-        <p class="price">Цена: <span> от 30 грн/шт</span></p>
+        <p class="price">Цена: <span> от 85 грн/шт</span></p>
     </div>
     <div class="catalog-item print">
         <img src="img/product/print/print2.jpg" alt="печать на шарах">
         <p class="title">Печать на шарах</p>
         <p class="val">От 10" (25см) с воздухом на палочке</p>
-        <p class="price">Цена: <span> от 8 грн/шт</span></p>
+        <p class="price">Цена: <span> от 15 грн/шт</span></p>
     </div>
 
 </article>
