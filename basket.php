@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ua">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +8,7 @@
     <script src="js/jquery-1.7.2.min.js" defer></script>
     <script src="js/js.js" defer></script>
     <meta name="description" content="Подарункові корзини з наповненням">
-    <meta name="keywords" content="Подарочные корзины с фруктами, Подарункові корзини з наповненням">
+    <meta name="keywords" content="Подарункові корзини з наповненням, корзини, подарункові корзини, подарочные корзины">
     <title>Подарункові корзини</title>
 
 </head>
